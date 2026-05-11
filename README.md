@@ -1,3 +1,5 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Momahmoses%2Fng-healthcare-access-analyzer&branch=main&mainModule=app.py)
+
 # 🏥 Nigeria Healthcare Access Gap Analyzer
 
 Geospatial platform for identifying underserved communities across Nigeria's 36 states, measuring facility density, travel-time catchments, and healthcare coverage gaps using **GIS**, **PySpark**, **Azure**, and **Streamlit**.
